@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BourseApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_convertisseur">ConvertisseurActivity</string>
+    <string name="title_activity_marche_titres">MarcheTitresActivity</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

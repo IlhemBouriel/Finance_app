@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="tn.gl4.finance.MainActivity">
+    <item
+        android:id="@+id/button"
+        android:title="Les Cours du marché" />
+
+    <item
+        android:id="@+id/buttonCurrencyConverter"
+        android:title="Convertisseur de devises"/>
+    <item
+        android:id="@+id/buttonBroker"
+        android:title="Geolocalisation" />
+    <item
+        android:id="@+id/exit"
+        android:title="Quit"
+  />
+
+</menu>
